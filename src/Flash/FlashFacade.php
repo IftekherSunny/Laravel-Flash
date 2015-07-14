@@ -1,6 +1,6 @@
 <?php
 
-namespace Sun;
+namespace Sun\Flash;
 
 use Illuminate\Support\Facades\Facade;
 

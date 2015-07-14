@@ -1,6 +1,6 @@
 <?php
 
-namespace Sun;
+namespace Sun\Flash;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,12 +13,12 @@ class FlashServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        require_once __DIR__ . '/../vendor/autoload.php';
+        require_once __DIR__ . '/../../vendor/autoload.php';
 
-        $this->loadViewsFrom(__DIR__ . '/../view', 'Sun');
+        $this->loadViewsFrom(__DIR__ . '/../../views', 'sun');
 
         $this->publishes([
-            __DIR__ . '/../view' => base_path('resources/views/vendor/sun/flash')
+            __DIR__ . '/../../views' => base_path('resources/views/vendor/sun/flash')
         ]);
 
     }

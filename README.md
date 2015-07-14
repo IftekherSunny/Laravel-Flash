@@ -25,6 +25,12 @@ in the providers array and
 ```
 to the aliases array.
 
+and also added Sun Flash message view where you want to show flash message.
+
+```
+ @include('sun::flash')
+```
+
 #### To Publish Sun Flash View
 
 ```
