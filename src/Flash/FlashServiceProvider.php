@@ -13,7 +13,6 @@ class FlashServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        require_once __DIR__ . '/../../vendor/autoload.php';
 
         $this->loadViewsFrom(__DIR__ . '/../../views', 'sun');
 
