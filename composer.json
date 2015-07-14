@@ -1,6 +1,6 @@
 {
   "name": "sun/laravel-flash",
-  "description": "Laravel Flash helps you to add flash messages to your Laravel application.",
+  "description": "Sun Flash helps you to add flash messages to your Laravel application.",
   "license": "MIT",
   "authors": [
     {
