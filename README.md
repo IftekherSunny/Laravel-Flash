@@ -1,5 +1,7 @@
 ## Sun Flash
 
+[![Total Downloads](https://poser.pugx.org/sun/laravel-flash/downloads)](https://packagist.org/packages/sun/laravel-flash) [![Latest Stable Version](https://poser.pugx.org/sun/laravel-flash/v/stable)](https://packagist.org/packages/sun/laravel-flash) [![Latest Unstable Version](https://poser.pugx.org/sun/laravel-flash/v/unstable)](https://packagist.org/packages/sun/laravel-flash) [![License](https://poser.pugx.org/sun/laravel-flash/license)](https://packagist.org/packages/sun/laravel-flash)
+
 Sun Flash message helps you to add flash messages to your Laravel application.
 
 ## Installation Process
@@ -114,7 +116,7 @@ Defalut value for --
 ![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/success.png)
 
 ###### Flash Message Error:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/Error.png)
+![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/error.png)
 
 ## License
 
