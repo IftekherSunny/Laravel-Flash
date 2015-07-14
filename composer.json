@@ -1,0 +1,20 @@
+{
+  "name": "sun/laravel-flash",
+  "description": "Laravel Flash helps you to add flash messages to your Laravel application.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iftekher Sunny",
+      "email": "iftekhersunny@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/session": "5.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sun\\": "src/"
+    }
+  }
+}
