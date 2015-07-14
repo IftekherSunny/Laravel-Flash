@@ -16,12 +16,12 @@ to your composer.json. Then run composer install or composer update.
 Then in your config/app.php add
 
 ```
- Sun\Flash\FlashServiceProvider::class
+ Sun\Flash\FlashServiceProvider::class,
 ```
 in the providers array and
 
 ```
- 'Flash' => Sun\Flash\FlashFacade::class
+ 'Flash' => Sun\Flash\FlashFacade::class,
 ```
 to the aliases array.
 
