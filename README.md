@@ -116,13 +116,13 @@ Defalut value for --
 ## Screenshots
 
 ###### Flash Message Overlay:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/overlay.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Flash/overlay.png)
 
 ###### Flash Message Success:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/success.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Flash/success.png)
 
 ###### Flash Message Error:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/error.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Flash/error.png)
 
 ## License
 
